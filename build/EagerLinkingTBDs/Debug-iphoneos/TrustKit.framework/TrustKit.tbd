@@ -1,0 +1,89 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_kTSKAlgorithmEcDsaSecp384r1",
+            "_kTSKIncludeSubdomains",
+            "_kTSKAlgorithmRsa2048",
+            "_kTSKAlgorithmRsa4096",
+            "_TrustKitVersionString",
+            "_kTSKPublicKeyAlgorithms",
+            "_kTSKPublicKeyHashes",
+            "_TrustKitVersionNumber",
+            "_kTSKDisableDefaultReportUri",
+            "_kTSKExcludeSubdomainFromParentPolicy",
+            "_kTSKSwizzleNetworkDelegates",
+            "_kTSKEnforcePinning",
+            "_kTSKIgnorePinningForUserDefinedTrustAnchors",
+            "_kTSKPinnedDomains",
+            "_kTSKExpirationDate",
+            "_kTSKAlgorithmEcDsaSecp256r1",
+            "_kTSKReportUris",
+            "__loggerBlock",
+            "_TrustKitVersion"
+          ],
+          "objc_class": [
+            "TSKBackgroundReporter",
+            "RSSwizzle",
+            "TrustKit",
+            "TSKPinningValidator",
+            "PodsDummy_TrustKit",
+            "TSKNSURLSessionDelegateProxy",
+            "TSKPinningValidatorResult",
+            "TSKNSURLConnectionDelegateProxy",
+            "RSSwizzleInfo",
+            "TSKReportsRateLimiter",
+            "TSKSPKIHashCache",
+            "TSKPinFailureReport"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FindRegistryNode",
+            "_convertTrustToPemArray",
+            "_identifier_for_vendor",
+            "_verifyPublicKeyPin",
+            "_TSKLog",
+            "_parseTrustKitConfiguration",
+            "_GetRegistryLengthAllowUnknownRegistries",
+            "_InitializeDomainRegistry",
+            "_HasLeafChildren",
+            "_ephemeralNSURLSessionConfiguration",
+            "_convertPinsToHpkpPins",
+            "_copyKey",
+            "_evaluateCertificateChainTrust",
+            "_GetRegistryLength",
+            "_DoAssert",
+            "_GetHostnamePart",
+            "_getPinningConfigurationKeyForDomain",
+            "_FindRegistryLeafNode",
+            "_SetRegistryTables",
+            "_SetDomainRegistryAssertHandler",
+            "_getCertificateAtIndex"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/TrustKit.framework/TrustKit"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

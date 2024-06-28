@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="RequestUserTableViewCell" rowHeight="207" id="KGk-i7-Jjw" customClass="RequestUserTableViewCell" customModule="SmartLockiOS" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="207"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="206.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" translatesAutoresizingMaskIntoConstraints="NO" id="IhJ-oM-0Er">
+                        <rect key="frame" x="15" y="10" width="297" height="186.5"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="6" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lo0-eB-87A">
+                                <rect key="frame" x="0.0" y="0.0" width="297" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="uC3-ZC-KLD"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="19B-0v-BcY">
+                                <rect key="frame" x="0.0" y="50" width="297" height="76.5"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="PzX-SJ-5Up">
+                                <rect key="frame" x="0.0" y="126.5" width="297" height="60"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ppt-VC-WRa">
+                                        <rect key="frame" x="0.0" y="12.5" width="80" height="35"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="80" id="Wmw-zV-OgC"/>
+                                            <constraint firstAttribute="height" constant="35" id="rMq-U6-wZC"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                        <state key="normal" title="REJECT">
+                                            <color key="titleColor" red="1" green="0.26063475229999999" blue="0.2068308361" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="onTapRequestRejectButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="hhv-2a-084"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="DL4-Pq-rNl">
+                                        <rect key="frame" x="100" y="12" width="80" height="35"/>
+                                        <color key="backgroundColor" red="0.99607843139999996" green="0.61960784310000006" blue="0.26274509800000001" alpha="1" colorSpace="calibratedRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="80" id="VWv-FQ-JDg"/>
+                                            <constraint firstAttribute="height" constant="35" id="mfq-iO-puR"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                        <state key="normal" title="ACCEPT">
+                                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                        </state>
+                                        <connections>
+                                            <action selector="onTapRequestAcceptButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="hgW-aM-5Ew"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstItem="Ppt-VC-WRa" firstAttribute="centerY" secondItem="PzX-SJ-5Up" secondAttribute="centerY" id="35b-Px-Zjc"/>
+                                    <constraint firstAttribute="height" constant="60" id="Adc-WG-jRG"/>
+                                    <constraint firstItem="DL4-Pq-rNl" firstAttribute="leading" secondItem="Ppt-VC-WRa" secondAttribute="trailing" constant="20" id="H8g-86-R3R"/>
+                                    <constraint firstItem="DL4-Pq-rNl" firstAttribute="centerY" secondItem="PzX-SJ-5Up" secondAttribute="centerY" id="TkN-IP-Kjy"/>
+                                    <constraint firstItem="Ppt-VC-WRa" firstAttribute="leading" secondItem="PzX-SJ-5Up" secondAttribute="leading" id="sw7-nL-3p0"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="19B-0v-BcY" firstAttribute="leading" secondItem="IhJ-oM-0Er" secondAttribute="leading" id="2nk-f2-v1r"/>
+                            <constraint firstItem="lo0-eB-87A" firstAttribute="top" secondItem="IhJ-oM-0Er" secondAttribute="top" id="4GY-Cj-Gm2"/>
+                            <constraint firstAttribute="trailing" secondItem="19B-0v-BcY" secondAttribute="trailing" id="BH2-69-g3x"/>
+                            <constraint firstItem="lo0-eB-87A" firstAttribute="leading" secondItem="IhJ-oM-0Er" secondAttribute="leading" id="CVg-Kr-ifT"/>
+                            <constraint firstItem="PzX-SJ-5Up" firstAttribute="leading" secondItem="IhJ-oM-0Er" secondAttribute="leading" id="WJw-XB-LxP"/>
+                            <constraint firstItem="19B-0v-BcY" firstAttribute="top" secondItem="lo0-eB-87A" secondAttribute="bottom" id="YUz-qe-EDU"/>
+                            <constraint firstAttribute="trailing" secondItem="PzX-SJ-5Up" secondAttribute="trailing" id="bvi-FH-d8D"/>
+                            <constraint firstAttribute="trailing" secondItem="lo0-eB-87A" secondAttribute="trailing" id="cXv-2P-okm"/>
+                            <constraint firstItem="PzX-SJ-5Up" firstAttribute="top" secondItem="19B-0v-BcY" secondAttribute="bottom" id="ek2-7y-0qb"/>
+                            <constraint firstAttribute="bottom" secondItem="PzX-SJ-5Up" secondAttribute="bottom" id="rS9-cW-qEQ"/>
+                        </constraints>
+                    </stackView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KEQ-zc-8Gd">
+                        <rect key="frame" x="0.0" y="205.5" width="320" height="1"/>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="YFo-M1-ncf"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="KEQ-zc-8Gd" secondAttribute="bottom" id="5hz-sY-Teg"/>
+                    <constraint firstAttribute="trailing" secondItem="IhJ-oM-0Er" secondAttribute="trailing" constant="8" id="H5G-7N-Eoc"/>
+                    <constraint firstItem="KEQ-zc-8Gd" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="LTS-Ab-d4H"/>
+                    <constraint firstItem="IhJ-oM-0Er" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="10" id="LYP-Eo-XrV"/>
+                    <constraint firstItem="IhJ-oM-0Er" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="15" id="Ve8-uP-SbW"/>
+                    <constraint firstAttribute="trailing" secondItem="KEQ-zc-8Gd" secondAttribute="trailing" id="Z92-19-sXS"/>
+                    <constraint firstAttribute="bottom" secondItem="IhJ-oM-0Er" secondAttribute="bottom" constant="10" id="aDQ-Ua-XWQ"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="requestAcceptButton" destination="DL4-Pq-rNl" id="DAp-58-LRc"/>
+                <outlet property="requestDescriptionLabel" destination="19B-0v-BcY" id="BBn-zB-vDW"/>
+                <outlet property="requestRejectButton" destination="Ppt-VC-WRa" id="y4V-S7-p76"/>
+                <outlet property="requesterNameLabel" destination="lo0-eB-87A" id="0cg-kO-qir"/>
+            </connections>
+            <point key="canvasLocation" x="25" y="133.5"/>
+        </tableViewCell>
+    </objects>
+</document>

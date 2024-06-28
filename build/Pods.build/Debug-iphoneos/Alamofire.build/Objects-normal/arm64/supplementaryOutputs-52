@@ -1,0 +1,30 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/RedirectHandler.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RedirectHandler.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/ParameterEncoding.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/ParameterEncoder.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftconstvalues"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/OperationQueue+Alamofire.swift":
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.dia"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.swiftconstvalues"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.d"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.o"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Protected.swift":
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.dia"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.swiftconstvalues"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Protected.d"

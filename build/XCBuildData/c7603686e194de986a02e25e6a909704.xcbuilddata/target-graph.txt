@@ -1,0 +1,68 @@
+Target dependency graph (24 targets)
+Target 'Fort' in project 'Fort Sample'
+➜ Implicit dependency on target 'SwiftyJSON' in project 'Pods' via file 'SwiftyJSON.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'TrustKit' in project 'Pods' via file 'TrustKit.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'IQKeyboardManagerSwift' in project 'Pods' via file 'IQKeyboardManagerSwift.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SlideMenuControllerSwift' in project 'Pods' via file 'SlideMenuControllerSwift.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'Alamofire' in project 'Pods' via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'PromisesObjC' in project 'Pods' via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseABTesting' in project 'Pods' via options '-framework FirebaseABTesting' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseCore' in project 'Pods' via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseCoreInternal' in project 'Pods' via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseInstallations' in project 'Pods' via options '-framework FirebaseInstallations' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseMessaging' in project 'Pods' via options '-framework FirebaseMessaging' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'FirebaseRemoteConfig' in project 'Pods' via options '-framework FirebaseRemoteConfig' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'GoogleDataTransport' in project 'Pods' via options '-framework GoogleDataTransport' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'GoogleUtilities' in project 'Pods' via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'JJFloatingActionButton' in project 'Pods' via options '-framework JJFloatingActionButton' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'JailbrokenDetector' in project 'Pods' via options '-framework JailbrokenDetector' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SKCountryPicker' in project 'Pods' via options '-framework SKCountryPicker' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'XLPagerTabStrip' in project 'Pods' via options '-framework XLPagerTabStrip' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'libPhoneNumber-iOS' in project 'Pods' via options '-framework libPhoneNumber_iOS' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'nanopb' in project 'Pods' via options '-framework nanopb' in build setting 'OTHER_LDFLAGS'
+Target 'libPhoneNumber-iOS' in project 'Pods' (no dependencies)
+Target 'XLPagerTabStrip' in project 'Pods'
+➜ Explicit dependency on target 'XLPagerTabStrip-XLPagerTabStrip' in project 'Pods'
+Target 'XLPagerTabStrip-XLPagerTabStrip' in project 'Pods' (no dependencies)
+Target 'SKCountryPicker' in project 'Pods'
+➜ Explicit dependency on target 'SKCountryPicker-CountryPickerController' in project 'Pods'
+Target 'SKCountryPicker-CountryPickerController' in project 'Pods' (no dependencies)
+Target 'JailbrokenDetector' in project 'Pods' (no dependencies)
+Target 'JJFloatingActionButton' in project 'Pods' (no dependencies)
+Target 'FirebaseRemoteConfig' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseABTesting' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseCore' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseInstallations' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseSharedSwift' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+Target 'FirebaseSharedSwift' in project 'Pods' (no dependencies)
+Target 'FirebaseMessaging' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseCore' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseInstallations' in project 'Pods'
+➜ Explicit dependency on target 'GoogleDataTransport' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+➜ Explicit dependency on target 'nanopb' in project 'Pods'
+Target 'GoogleDataTransport' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+➜ Explicit dependency on target 'PromisesObjC' in project 'Pods'
+➜ Explicit dependency on target 'nanopb' in project 'Pods'
+Target 'nanopb' in project 'Pods' (no dependencies)
+Target 'FirebaseInstallations' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseCore' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+➜ Explicit dependency on target 'PromisesObjC' in project 'Pods'
+Target 'FirebaseABTesting' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseCore' in project 'Pods'
+Target 'FirebaseCore' in project 'Pods'
+➜ Explicit dependency on target 'FirebaseCoreInternal' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+Target 'FirebaseCoreInternal' in project 'Pods'
+➜ Explicit dependency on target 'GoogleUtilities' in project 'Pods'
+Target 'GoogleUtilities' in project 'Pods'
+➜ Explicit dependency on target 'PromisesObjC' in project 'Pods'
+Target 'PromisesObjC' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods' (no dependencies)
+Target 'SlideMenuControllerSwift' in project 'Pods' (no dependencies)
+Target 'IQKeyboardManagerSwift' in project 'Pods' (no dependencies)
+Target 'TrustKit' in project 'Pods' (no dependencies)
+Target 'SwiftyJSON' in project 'Pods' (no dependencies)

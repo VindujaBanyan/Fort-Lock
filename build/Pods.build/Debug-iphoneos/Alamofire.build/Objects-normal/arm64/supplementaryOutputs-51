@@ -1,0 +1,30 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/NetworkReachabilityManager.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.d"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/NetworkReachabilityManager.dia"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/HTTPMethod.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.o"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/HTTPMethod.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/MultipartFormData.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartFormData.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Notifications.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Notifications.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/MultipartUpload.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/MultipartUpload.swiftconstvalues"

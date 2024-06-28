@@ -1,0 +1,30 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/RequestInterceptor.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftdeps"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestInterceptor.o"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Request.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.swiftconstvalues"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Request.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/RequestCompression.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestCompression.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestCompression.dia"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestCompression.o"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestCompression.swiftconstvalues"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestCompression.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/RequestTaskMap.swift":
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.o"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.d"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Response.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.d"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Response.dia"

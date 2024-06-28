@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="AvenirNextCondensed.ttc">
+            <string>AvenirNextCondensed-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SFShadowView" customModule="SmartLockiOS" customModuleProvider="target">
+            <connections>
+                <outlet property="activityIndicator" destination="8i6-yR-5av" id="6v6-bc-VTK"/>
+                <outlet property="activityLabel" destination="gMQ-mI-R71" id="z02-tj-3gu"/>
+                <outlet property="activityView" destination="ef1-Ot-wg6" id="2Mm-Zj-dg5"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+                <outlet property="viewContainer" destination="iRt-nT-cxl" id="kQS-4o-OnA"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <view alpha="0.5" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="iRt-nT-cxl">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                </view>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ef1-Ot-wg6">
+                    <rect key="frame" x="117.5" y="273.5" width="140" height="120"/>
+                    <subviews>
+                        <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Loading..!!" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gMQ-mI-R71">
+                            <rect key="frame" x="33.5" y="72" width="73" height="30"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="30" id="fI4-NC-6ex"/>
+                            </constraints>
+                            <fontDescription key="fontDescription" name="AvenirNextCondensed-Regular" family="Avenir Next Condensed" pointSize="19"/>
+                            <color key="textColor" red="0.33333333333333331" green="0.33333333333333331" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" animating="YES" style="whiteLarge" translatesAutoresizingMaskIntoConstraints="NO" id="8i6-yR-5av">
+                            <rect key="frame" x="51.5" y="20" width="37" height="37"/>
+                            <constraints>
+                                <constraint firstAttribute="height" constant="37" id="bqY-K2-e58"/>
+                                <constraint firstAttribute="width" constant="37" id="cC3-Na-Fgc"/>
+                            </constraints>
+                            <color key="color" red="0.99607843139999996" green="0.61960784310000006" blue="0.26274509800000001" alpha="1" colorSpace="calibratedRGB"/>
+                        </activityIndicatorView>
+                    </subviews>
+                    <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="140" id="2Ta-WM-qo2"/>
+                        <constraint firstItem="8i6-yR-5av" firstAttribute="centerY" secondItem="ef1-Ot-wg6" secondAttribute="centerY" constant="-21.5" id="A48-Zh-jNX"/>
+                        <constraint firstItem="8i6-yR-5av" firstAttribute="centerX" secondItem="ef1-Ot-wg6" secondAttribute="centerX" id="D5N-RY-Q1i"/>
+                        <constraint firstItem="gMQ-mI-R71" firstAttribute="centerX" secondItem="ef1-Ot-wg6" secondAttribute="centerX" id="Rkp-Vd-AM4"/>
+                        <constraint firstItem="gMQ-mI-R71" firstAttribute="top" secondItem="8i6-yR-5av" secondAttribute="bottom" constant="15" id="VhL-Q5-Fl7"/>
+                        <constraint firstAttribute="height" constant="120" id="bZ4-oP-eJL"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="ef1-Ot-wg6" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="155" id="4hs-Yz-cnB"/>
+                <constraint firstItem="ef1-Ot-wg6" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="6Yn-ic-S9w"/>
+                <constraint firstItem="iRt-nT-cxl" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" id="D26-RJ-azF"/>
+                <constraint firstItem="iRt-nT-cxl" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" id="ThH-Le-giY"/>
+                <constraint firstAttribute="trailing" secondItem="iRt-nT-cxl" secondAttribute="trailing" id="WBt-L6-AMW"/>
+                <constraint firstItem="ef1-Ot-wg6" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="195" id="dR6-jO-rmo"/>
+                <constraint firstAttribute="bottom" secondItem="iRt-nT-cxl" secondAttribute="bottom" id="tQg-SY-dkt"/>
+                <constraint firstItem="ef1-Ot-wg6" firstAttribute="centerY" secondItem="i5M-Pr-FkT" secondAttribute="centerY" id="z8W-il-7Ow"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="4hs-Yz-cnB"/>
+                    <exclude reference="dR6-jO-rmo"/>
+                </mask>
+            </variation>
+        </view>
+    </objects>
+</document>

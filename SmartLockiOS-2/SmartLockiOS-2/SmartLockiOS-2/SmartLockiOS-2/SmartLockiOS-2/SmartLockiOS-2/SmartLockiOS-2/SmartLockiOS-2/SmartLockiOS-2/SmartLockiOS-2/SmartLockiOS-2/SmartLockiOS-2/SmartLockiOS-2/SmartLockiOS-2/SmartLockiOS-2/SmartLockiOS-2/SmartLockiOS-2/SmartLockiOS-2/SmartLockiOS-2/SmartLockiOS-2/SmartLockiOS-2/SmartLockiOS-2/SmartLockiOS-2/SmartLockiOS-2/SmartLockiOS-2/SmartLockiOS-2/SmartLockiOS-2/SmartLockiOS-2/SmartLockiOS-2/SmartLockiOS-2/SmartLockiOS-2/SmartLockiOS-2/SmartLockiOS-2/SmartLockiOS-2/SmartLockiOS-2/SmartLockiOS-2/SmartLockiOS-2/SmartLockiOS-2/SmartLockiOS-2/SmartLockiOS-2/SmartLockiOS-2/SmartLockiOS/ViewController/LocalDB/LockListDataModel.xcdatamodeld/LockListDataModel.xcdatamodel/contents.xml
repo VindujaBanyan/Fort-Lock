@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20D64" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="LockListEntity" representedClassName="LockListEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="battery" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="is_secured" optional="YES" attributeType="String"/>
+        <attribute name="lock_keys" optional="YES" attributeType="String"/>
+        <attribute name="lock_owner_id" optional="YES" attributeType="String"/>
+        <attribute name="lockname" optional="YES" attributeType="String"/>
+        <attribute name="lockVersion" optional="YES" attributeType="String"/>
+        <attribute name="scratch_code" optional="YES" attributeType="String"/>
+        <attribute name="serial_number" optional="YES" attributeType="String"/>
+        <attribute name="ssid" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+        <attribute name="userPrivileges" optional="YES" attributeType="String"/>
+        <attribute name="uuid" optional="YES" attributeType="String"/>
+        <attribute name="wasAddedOffline" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="LockListEntity" positionX="-18" positionY="27" width="128" height="239"/>
+    </elements>
+</model>

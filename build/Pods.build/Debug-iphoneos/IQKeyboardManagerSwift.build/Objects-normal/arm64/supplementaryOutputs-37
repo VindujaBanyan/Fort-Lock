@@ -1,0 +1,18 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/Categories/IQNSArray+Sort.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.d"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.o"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.swiftconstvalues"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQNSArray+Sort.dia"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQPlaceholderable.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPlaceholderable.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPlaceholderable.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPlaceholderable.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPlaceholderable.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQPlaceholderable.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardReturnKeyHandler.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.swiftconstvalues"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.o"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardReturnKeyHandler.d"

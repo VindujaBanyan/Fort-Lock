@@ -1,0 +1,24 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/ResponseSerialization.swift":
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.dia"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftconstvalues"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.d"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ResponseSerialization.swiftdeps"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/RetryPolicy.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.d"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.dia"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/RetryPolicy.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/ServerTrustEvaluation.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.d"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.o"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.dia"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/ServerTrustEvaluation.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Result+Alamofire.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.d"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.o"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.swiftconstvalues"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.swiftdeps"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Result+Alamofire.dia"

@@ -1,0 +1,146 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV0A11SharedSwift0abcD8DecodingAAWP",
+            "_kDatabaseLoadTimeoutSecs",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableCfd",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvpMV",
+            "_FirebaseRemoteConfigVersionString",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_Gvs",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvpfP",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV04boolD0SbyF",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperVMa",
+            "_FIRNamespaceGoogleMobilePlatform",
+            "_$s20FirebaseRemoteConfig0bC12CodableErrorON",
+            "_$sSo18NSNotificationNamea20FirebaseRemoteConfigE02ondE9ActivatedABvpZ",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC17configDidActivate12notificationySo14NSNotificationC_tF",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_GvpMV",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC17configDidActivate12notificationySo14NSNotificationC_tFTq",
+            "_FIRRemoteConfigActivateNotification",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E11setDefaults4fromyx_tKSERzlF",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV12wrappedValuexvg",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableCfD",
+            "_$sSo20FIRRemoteConfigValueC014FirebaseRemoteB0E7decoded6asTypexxm_tKSeRzlF",
+            "_$s20FirebaseRemoteConfig0bC17ValueCodableErrorOs0F0AAMc",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV06stringD0SSyF",
+            "_Swift50Overrides",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV12wrappedValuexvpMV",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_GvMTq",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvsTq",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV06numberD0So8NSNumberCyF",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV5valueSo09FIRRemotecD0CvpMV",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_GvsTq",
+            "_$s20FirebaseRemoteConfig0bC17ValueCodableErrorOMn",
+            "_$s20FirebaseRemoteConfig0bC12CodableErrorOMn",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableCMa",
+            "_$s20FirebaseRemoteConfig0bC12CodableErrorOs0E0AAMc",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC3key08fallbackD0ACyxGSS_xtcfC",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV3key8fallbackACyxGSS_xtcfC",
+            "_$s20FirebaseRemoteConfig0bC8PropertyVMa",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV04dataD010Foundation4DataVyF",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvM",
+            "_$s20FirebaseRemoteConfig0bC8PropertyVMn",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperVMn",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_Gvg",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvgTq",
+            "_$s20FirebaseRemoteConfig0abC10AppNameKeySSvp",
+            "_FIRRemoteConfigErrorDomain",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV3keySSvpMV",
+            "_Swift51Overrides",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_GvM",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV19configValueObserver33_672E8EC0FFC9DEA39EEACF89CF5D6CE8LLAA0bcF10ObservableCyxGvpfP",
+            "_$s20FirebaseRemoteConfig0bC8PropertyV3keySSvg",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E7decoded6asTypexxm_tKSeRzlF",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV05arrayD0Says11AnyHashableVGSgyF",
+            "_$s20FirebaseRemoteConfig0bC17ValueCodableErrorON",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC3key08fallbackD0ACyxGSS_xtcfCTq",
+            "_$s20FirebaseRemoteConfig0bC17ValueCodableErrorOMa",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvMTq",
+            "_$sSo18NSNotificationNamea20FirebaseRemoteConfigE02ondE9ActivatedABvau",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV5valueSo09FIRRemotecD0Cvg",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvs",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E12decodedValuexSgSS_tcSeRzluipMV",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E9jsonValueSDySSs11AnyHashableVGSgSS_tcipMV",
+            "_FIRRemoteConfigThrottledEndTimeInSecondsKey",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E9jsonValueSDySSs11AnyHashableVGSgSS_tcig",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV0A11SharedSwift0abcD8DecodingAAMc",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableCMn",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperVN",
+            "_FIRRemoteConfigUpdateErrorDomain",
+            "_FirebaseRemoteConfigVersionNumber",
+            "_$sSo18NSNotificationNamea20FirebaseRemoteConfigE02ondE9ActivatedABvgZ",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC06configD0xvg",
+            "_$s20FirebaseRemoteConfig0bC8PropertyVyxG7SwiftUI07DynamicD0AAMc",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableCyxG7Combine0E6ObjectAAMc",
+            "_$sSo15FIRRemoteConfigC014FirebaseRemoteB0E12decodedValuexSgSS_tcSeRzluig",
+            "_$s20FirebaseRemoteConfig0abC10AppNameKeySSvau",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV010dictionaryD0SDySSs11AnyHashableVGSgyF",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC3key08fallbackD0ACyxGSS_xtcfc",
+            "_$s20FirebaseRemoteConfig0bC12CodableErrorOMa",
+            "_$s20FirebaseRemoteConfig0bC15ValueObservableC07$configD07Combine9PublishedV9PublisherVyx_GvgTq",
+            "_$s20FirebaseRemoteConfig0abC18ValueDecoderHelperV5valueACSo09FIRRemotecD0C_tcfC"
+          ],
+          "objc_class": [
+            "RCNConfigExperiment",
+            "RCNUserDefaultsManager",
+            "FIRRemoteConfigComponent",
+            "RCNConfigRealtime",
+            "FIRRemoteConfigUpdate",
+            "FIRRemoteConfigValue",
+            "RCNConfigDBManager",
+            "RCNPersonalization",
+            "FIRRemoteConfig",
+            "PodsDummy_FirebaseRemoteConfig",
+            "FIRRemoteConfigSettings",
+            "RCNConfigContent",
+            "RCNConfigFetch",
+            "FIRConfigUpdateListenerRegistration",
+            "RCNConfigSettings"
+          ]
+        },
+        "text": {
+          "global": [
+            "_FIRRemoteConfigDeviceContextWithProjectIdentifier",
+            "_FIRRemoteConfigPodVersion",
+            "_FIRRemoteConfigAppBuildVersion",
+            "_FIRRemoteConfigDeviceLocale",
+            "_FIRRemoteConfigAppManagerLocales",
+            "_FIRRemoteConfigDeviceCountry",
+            "_FIRRemoteConfigDeviceSubtype",
+            "_FIRRemoteConfigFirebaseLocaleMap",
+            "_FIRRemoteConfigTimezone",
+            "_FIRRemoteConfigAppVersion",
+            "_FIRRemoteConfigHasDeviceContextChanged"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/FirebaseRemoteConfig.framework/FirebaseRemoteConfig"
+      }
+    ],
+    "swift_abi": [
+      {
+        "abi": 7
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "12",
+        "target": "arm64-ios"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}

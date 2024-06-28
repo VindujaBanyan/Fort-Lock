@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuControllerSwift-master.dia",
+    "emit-module-dependencies" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuControllerSwift-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuControllerSwift-master-emit-module.dia",
+    "swift-dependencies" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuControllerSwift-master.swiftdeps"
+  },
+  "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/SlideMenuControllerSwift/Source/SlideMenuController.swift" : {
+    "const-values" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.swiftconstvalues",
+    "dependencies" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.d",
+    "diagnostics" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.o",
+    "llvm-bc" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.bc",
+    "object" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.o",
+    "swift-dependencies" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController.swiftdeps",
+    "swiftmodule" : "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/SlideMenuControllerSwift.build/Objects-normal/arm64/SlideMenuController~partial.swiftmodule"
+  }
+}

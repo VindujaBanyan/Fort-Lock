@@ -1,0 +1,18 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQBarButtonItem.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQBarButtonItem.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQBarButtonItem.swiftdeps"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQBarButtonItem.d"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQBarButtonItem.dia"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQBarButtonItem.swiftconstvalues"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQKeyboardManager.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager.d"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager.o"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQKeyboardManager.dia"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQInvocation.swift":
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQInvocation.d"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQInvocation.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQInvocation.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQInvocation.swiftconstvalues"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQInvocation.dia"

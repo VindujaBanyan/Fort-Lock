@@ -1,0 +1,11 @@
+framework module SKCountryPicker {
+  umbrella header "SKCountryPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SKCountryPicker.Swift {
+  header "SKCountryPicker-Swift.h"
+  requires objc
+}

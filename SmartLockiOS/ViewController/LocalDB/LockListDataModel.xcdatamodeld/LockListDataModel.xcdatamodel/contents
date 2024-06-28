@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="22522" systemVersion="23C71" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="LockListEntity" representedClassName="LockListEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="battery" optional="YES" attributeType="String"/>
+        <attribute name="created_date" optional="YES" attributeType="String"/>
+        <attribute name="enable_fp" optional="YES" attributeType="String"/>
+        <attribute name="enable_passage" optional="YES" attributeType="String"/>
+        <attribute name="enable_pin" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="is_secured" optional="YES" attributeType="String"/>
+        <attribute name="lock_keys" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData"/>
+        <attribute name="lock_owner_id" optional="YES" attributeType="Transformable" valueTransformerName="NSSecureUnarchiveFromData"/>
+        <attribute name="lockname" optional="YES" attributeType="String"/>
+        <attribute name="lockVersion" optional="YES" attributeType="String"/>
+        <attribute name="modified_date" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="scratch_code" optional="YES" attributeType="String"/>
+        <attribute name="serial_number" optional="YES" attributeType="String"/>
+        <attribute name="ssid" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+        <attribute name="user_id" optional="YES" attributeType="String"/>
+        <attribute name="userPrivileges" optional="YES" attributeType="String"/>
+        <attribute name="uuid" optional="YES" attributeType="String"/>
+        <attribute name="wasAddedOffline" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+    </entity>
+</model>

@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Debug-iphoneos/JJFloatingActionButton/JJFloatingActionButton.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/JJFloatingActionButton.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Debug-iphoneos/JJFloatingActionButton/JJFloatingActionButton.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "JJFloatingActionButton-Swift.h",
+      'external-contents': "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/JJFloatingActionButton.build/unextended-interface-header.h",
+    }]
+    }]
+}

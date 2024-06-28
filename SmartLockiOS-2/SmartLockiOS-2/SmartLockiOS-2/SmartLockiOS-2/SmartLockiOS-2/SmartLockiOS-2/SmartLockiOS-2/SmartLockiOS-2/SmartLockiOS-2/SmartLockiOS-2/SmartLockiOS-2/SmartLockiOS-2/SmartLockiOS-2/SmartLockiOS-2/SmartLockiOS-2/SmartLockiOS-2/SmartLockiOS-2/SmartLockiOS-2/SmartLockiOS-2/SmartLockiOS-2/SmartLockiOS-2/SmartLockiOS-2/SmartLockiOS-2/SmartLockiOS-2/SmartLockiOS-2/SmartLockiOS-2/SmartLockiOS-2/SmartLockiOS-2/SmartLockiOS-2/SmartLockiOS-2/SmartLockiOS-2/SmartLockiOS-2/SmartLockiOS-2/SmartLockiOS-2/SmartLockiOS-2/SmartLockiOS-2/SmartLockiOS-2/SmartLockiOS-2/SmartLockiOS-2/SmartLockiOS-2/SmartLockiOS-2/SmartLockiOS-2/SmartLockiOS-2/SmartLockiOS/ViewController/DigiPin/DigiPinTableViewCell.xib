@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="DigiPinTableViewCell" rowHeight="77" id="KGk-i7-Jjw" customClass="DigiPinTableViewCell" customModule="SmartLockiOS" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="317" height="140"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="317" height="140"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="AML-yg-67M">
+                        <rect key="frame" x="8" y="8" width="301" height="124"/>
+                        <subviews>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="wgn-9D-bi2">
+                                <rect key="frame" x="5" y="5" width="266" height="45"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="45" id="LfE-uS-BSp"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="activeLineColor">
+                                        <color key="value" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="lineColor">
+                                        <color key="value" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="NbY-m5-vlT"/>
+                                </connections>
+                            </textField>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oiN-MX-0BY">
+                                <rect key="frame" x="276" y="17.5" width="20" height="20"/>
+                                <color key="backgroundColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="kzB-kH-3GZ"/>
+                                    <constraint firstAttribute="width" constant="20" id="pYp-pZ-vKE"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="r9I-a9-t88" customClass="BackspaceTextField" customModule="SmartLockiOS" customModuleProvider="target">
+                                <rect key="frame" x="155.5" y="60" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="ceg-te-g59"/>
+                                    <constraint firstAttribute="width" constant="50" id="da0-vT-n9g"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <connections>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="exN-io-jOY"/>
+                                </connections>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="1Tl-vg-eBC" customClass="BackspaceTextField" customModule="SmartLockiOS" customModuleProvider="target">
+                                <rect key="frame" x="215.5" y="60" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="BHk-Ir-nGV"/>
+                                    <constraint firstAttribute="width" constant="50" id="iCk-dH-nw6"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <connections>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="XFJ-QD-hqg"/>
+                                </connections>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="B0V-n6-7wp" customClass="BackspaceTextField" customModule="SmartLockiOS" customModuleProvider="target">
+                                <rect key="frame" x="95.5" y="60" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="50" id="Clj-Ts-Vcs"/>
+                                    <constraint firstAttribute="width" constant="50" id="qK9-aq-eAD"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <connections>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="8iH-fz-RtS"/>
+                                </connections>
+                            </textField>
+                            <textField opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" borderStyle="roundedRect" textAlignment="center" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="5nz-2V-X1J" customClass="BackspaceTextField" customModule="SmartLockiOS" customModuleProvider="target">
+                                <rect key="frame" x="35.5" y="60" width="50" height="50"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="50" id="8Bp-6H-Rze"/>
+                                    <constraint firstAttribute="height" constant="50" id="hcx-B6-KSP"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                                <textInputTraits key="textInputTraits" keyboardType="numberPad"/>
+                                <connections>
+                                    <outlet property="delegate" destination="KGk-i7-Jjw" id="IWQ-0U-wTJ"/>
+                                </connections>
+                            </textField>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemOrangeColor"/>
+                        <constraints>
+                            <constraint firstItem="oiN-MX-0BY" firstAttribute="centerY" secondItem="wgn-9D-bi2" secondAttribute="centerY" id="5ZJ-Au-xNH"/>
+                            <constraint firstItem="wgn-9D-bi2" firstAttribute="leading" secondItem="AML-yg-67M" secondAttribute="leading" constant="5" id="6E8-UG-GUu"/>
+                            <constraint firstItem="5nz-2V-X1J" firstAttribute="top" secondItem="wgn-9D-bi2" secondAttribute="bottom" constant="10" id="Bc8-J5-ImU"/>
+                            <constraint firstItem="r9I-a9-t88" firstAttribute="centerX" secondItem="AML-yg-67M" secondAttribute="centerX" constant="30" id="F41-UD-TRO"/>
+                            <constraint firstItem="1Tl-vg-eBC" firstAttribute="leading" secondItem="r9I-a9-t88" secondAttribute="trailing" constant="10" id="KYZ-II-wsg"/>
+                            <constraint firstItem="wgn-9D-bi2" firstAttribute="top" secondItem="AML-yg-67M" secondAttribute="top" constant="5" id="NIv-qP-75c"/>
+                            <constraint firstItem="1Tl-vg-eBC" firstAttribute="top" secondItem="wgn-9D-bi2" secondAttribute="bottom" constant="10" id="PJX-tf-ad0"/>
+                            <constraint firstItem="r9I-a9-t88" firstAttribute="top" secondItem="wgn-9D-bi2" secondAttribute="bottom" constant="10" id="RCp-L3-b3c"/>
+                            <constraint firstItem="B0V-n6-7wp" firstAttribute="leading" secondItem="5nz-2V-X1J" secondAttribute="trailing" constant="10" id="TsJ-nI-sIJ"/>
+                            <constraint firstItem="oiN-MX-0BY" firstAttribute="top" secondItem="AML-yg-67M" secondAttribute="top" constant="5" id="UBc-PC-u2F"/>
+                            <constraint firstItem="oiN-MX-0BY" firstAttribute="leading" secondItem="wgn-9D-bi2" secondAttribute="trailing" constant="5" id="gb1-JI-pzH"/>
+                            <constraint firstItem="r9I-a9-t88" firstAttribute="leading" secondItem="B0V-n6-7wp" secondAttribute="trailing" constant="10" id="oJV-2A-XdZ"/>
+                            <constraint firstAttribute="trailing" secondItem="oiN-MX-0BY" secondAttribute="trailing" constant="5" id="r85-Dh-NDM"/>
+                            <constraint firstItem="B0V-n6-7wp" firstAttribute="top" secondItem="wgn-9D-bi2" secondAttribute="bottom" constant="10" id="uG3-Ny-fD5"/>
+                        </constraints>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="UBc-PC-u2F"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="AML-yg-67M" secondAttribute="bottom" constant="8" id="D5J-jZ-2xg"/>
+                    <constraint firstItem="AML-yg-67M" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="Rvf-xN-wYF"/>
+                    <constraint firstAttribute="trailing" secondItem="AML-yg-67M" secondAttribute="trailing" constant="8" id="Zsd-gh-z0E"/>
+                    <constraint firstItem="AML-yg-67M" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="8" id="xFp-MK-051"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="cardView" destination="AML-yg-67M" id="G6i-5F-jI7"/>
+                <outlet property="lblCount" destination="oiN-MX-0BY" id="eI8-52-Rsa"/>
+                <outlet property="txtFieldFirstPin" destination="5nz-2V-X1J" id="pJC-O4-ACI"/>
+                <outlet property="txtFieldFourthPin" destination="1Tl-vg-eBC" id="vb4-fO-pBF"/>
+                <outlet property="txtFieldSecondPin" destination="B0V-n6-7wp" id="TuR-9L-6FM"/>
+                <outlet property="txtFieldThirdPin" destination="r9I-a9-t88" id="pcC-hB-Bqb"/>
+                <outlet property="txtFieldTitle" destination="wgn-9D-bi2" id="meF-V2-BZh"/>
+            </connections>
+            <point key="canvasLocation" x="107.97101449275362" y="62.946428571428569"/>
+        </tableViewCell>
+    </objects>
+    <designables>
+        <designable name="1Tl-vg-eBC">
+            <size key="intrinsicContentSize" width="32" height="34"/>
+        </designable>
+        <designable name="5nz-2V-X1J">
+            <size key="intrinsicContentSize" width="32" height="34"/>
+        </designable>
+        <designable name="B0V-n6-7wp">
+            <size key="intrinsicContentSize" width="32" height="34"/>
+        </designable>
+        <designable name="r9I-a9-t88">
+            <size key="intrinsicContentSize" width="32" height="34"/>
+        </designable>
+    </designables>
+    <resources>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>

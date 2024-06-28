@@ -1,0 +1,10 @@
+framework module SKCountryPicker {
+  umbrella header "SKCountryPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SKCountryPicker.__Swift {
+  exclude header "SKCountryPicker-Swift.h"
+}

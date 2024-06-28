@@ -1,0 +1,24 @@
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftconstvalues"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.o"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.dia"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLSessionConfiguration+Alamofire.d"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/URLEncodedFormEncoder.swift":
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.dia"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.swiftconstvalues"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.o"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.d"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLEncodedFormEncoder.swiftdeps"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/URLRequest+Alamofire.swift":
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.o"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftdeps"
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.swiftconstvalues"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.d"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/URLRequest+Alamofire.dia"
+"/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/Pods/Alamofire/Source/Validation.swift":
+  const-values: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Validation.swiftconstvalues"
+  dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Validation.d"
+  diagnostics: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Validation.dia"
+  swift-dependencies: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Validation.swiftdeps"
+  object: "/Users/thebanyaninfotech/Downloads/Fort Sample BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/Alamofire.build/Objects-normal/arm64/Validation.o"

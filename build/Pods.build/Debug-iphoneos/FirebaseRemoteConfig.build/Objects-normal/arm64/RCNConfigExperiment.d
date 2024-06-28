@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/FirebaseRemoteConfig.build/module.modulemap \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigExperiment.m \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigExperiment.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseABTesting/Sources/Private/FirebaseABTestingInternal.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/FirebaseABTesting.build/module.modulemap \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/Target\ Support\ Files/FirebaseABTesting/FirebaseABTesting-umbrella.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FirebaseABTesting.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FIRExperimentController.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseABTesting/FirebaseABTesting/Sources/Public/FirebaseABTesting/FIRLifecycleEvents.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseABTesting/Sources/Private/ABTExperimentPayload.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FirebaseCoreInternal.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/build/Pods.build/Debug-iphoneos/FirebaseCore.build/module.modulemap \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRApp.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRConfiguration.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRLoggerLevel.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FirebaseCore.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIROptions.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseCore/FirebaseCore/Sources/Public/FirebaseCore/FIRVersion.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRAppInternal.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponent.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponentContainer.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRComponentType.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRDependency.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRHeartbeatLogger.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRLibrary.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIRLogger.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseCore/Extension/FIROptionsInternal.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigDBManager.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigContent.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/Public/FirebaseRemoteConfig/FIRRemoteConfig.h \
+  /Users/thebanyaninfotech/Downloads/Fort\ Sample\ BackUp/SmartLockiOS-2/Pods/FirebaseRemoteConfig/FirebaseRemoteConfig/Sources/RCNConfigDefines.h

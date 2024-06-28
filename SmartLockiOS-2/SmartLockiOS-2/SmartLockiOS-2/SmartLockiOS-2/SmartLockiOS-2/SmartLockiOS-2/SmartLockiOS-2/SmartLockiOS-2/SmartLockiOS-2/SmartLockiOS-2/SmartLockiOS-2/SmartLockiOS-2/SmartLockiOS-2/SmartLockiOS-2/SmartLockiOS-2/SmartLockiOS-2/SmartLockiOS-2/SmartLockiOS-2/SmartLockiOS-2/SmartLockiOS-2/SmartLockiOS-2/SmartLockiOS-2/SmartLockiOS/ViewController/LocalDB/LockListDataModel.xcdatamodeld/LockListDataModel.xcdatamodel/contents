@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="19574" systemVersion="20G1020" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="LockListEntity" representedClassName="LockListEntity" syncable="YES" codeGenerationType="class">
+        <attribute name="battery" optional="YES" attributeType="String"/>
+        <attribute name="company_id" optional="YES" attributeType="String"/>
+        <attribute name="created_date" optional="YES" attributeType="String"/>
+        <attribute name="enable_fp" optional="YES" attributeType="String"/>
+        <attribute name="enable_passage" optional="YES" attributeType="String"/>
+        <attribute name="enable_pin" optional="YES" attributeType="String"/>
+        <attribute name="id" optional="YES" attributeType="String"/>
+        <attribute name="is_secured" optional="YES" attributeType="String"/>
+        <attribute name="lock_version" optional="YES" attributeType="String"/>
+        <attribute name="modified_date" optional="YES" attributeType="String"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="scratch_code" optional="YES" attributeType="String"/>
+        <attribute name="serial_number" optional="YES" attributeType="String"/>
+        <attribute name="ssid" optional="YES" attributeType="String"/>
+        <attribute name="status" optional="YES" attributeType="String"/>
+        <attribute name="user_id" optional="YES" attributeType="String"/>
+        <attribute name="user_privileges" optional="YES" attributeType="String"/>
+        <attribute name="uuid" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="LockListEntity" positionX="-63" positionY="-18" width="128" height="299"/>
+    </elements>
+</model>
